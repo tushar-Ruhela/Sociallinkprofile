@@ -1,7 +1,7 @@
-# Frontend Mentor - Social links profile solution
+## Social links profile solution
 welcome to our website and i hope all give best feedback to my website.
-In this website we will create a  social link profile of anyone.
-this webpage have social links .
+In this website i will create a  social link profile of any person.
+this webpage have social links the person
 
 
 
